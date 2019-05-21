@@ -1,4 +1,4 @@
-FROM node:6.11.3
+FROM node:8.16.0
 LABEL Author="Upstage Support <support@upstaged.tv>"
 
 ENV YARN_VERSION 1.6.0
